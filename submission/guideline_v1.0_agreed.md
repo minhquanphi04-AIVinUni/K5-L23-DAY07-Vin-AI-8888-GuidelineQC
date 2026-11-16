@@ -1,5 +1,5 @@
 # Guideline gán nhãn — v0
-- Phiên bản: v0
+- Phiên bản: v1.0
 - Loại nhãn: bounding box (hộp chữ nhật) trên ảnh đường phố
 - Công cụ: CVAT, xuất COCO 1.0
 

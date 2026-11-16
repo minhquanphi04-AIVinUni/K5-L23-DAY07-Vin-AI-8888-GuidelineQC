@@ -33,10 +33,6 @@
     {
       "name": "person",
       "definition": "Người."
-    },
-    {
-      "name": "ignore_region",
-      "definition": "Vùng bỏ qua (không phải vật): nơi không gán từng vật, bỏ sót ở đây không tính là lỗi."
     }
   ],
   "attributes": [
