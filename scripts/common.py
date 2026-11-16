@@ -43,7 +43,7 @@ class Taxonomy:
         self.classes: List[str] = [c["name"] for c in d["classes"]]
         self.attrs: Dict[str, dict] = {a["name"]: a for a in d.get("attributes", [])}
         self.rules: dict = d["rules"]
-        self.ignore: str = d.get("ignore_class", "ignore_region")
+        self.ignore: Optional[str] = d.get("ignore_class")
 
     @property
     def object_classes(self) -> List[str]:
@@ -103,8 +103,8 @@ def load_taxonomy(path: Path = TAXONOMY_PATH) -> Taxonomy:
     if errors:
         die(f"{rel(path)}: " + "\n".join(f"{e.json_path}: {e.message}" for e in errors))
     tax = Taxonomy(data)
-    if len(tax.classes) != len(set(tax.classes)) or tax.ignore not in tax.classes:
-        die("Tên lớp phải duy nhất và ignore_class phải có trong classes.")
+    if len(tax.classes) != len(set(tax.classes)) or (tax.ignore is not None and tax.ignore not in tax.classes):
+        die("Tên lớp phải duy nhất và ignore_class (nếu có) phải có trong classes.")
     if len(tax.attrs) != len(data["attributes"]):
         die("Tên thuộc tính phải duy nhất.")
     for name, attr in tax.attrs.items():

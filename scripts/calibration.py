@@ -51,7 +51,7 @@ def calibration_scope():
     if final.raw != original.raw and final.version == original.version:
         die("Đổi taxonomy cần phiên bản mới.")
     semantic_change = any(
-        original.raw[key] != final.raw[key] for key in ("classes", "attributes", "ignore_class")
+        original.raw.get(key) != final.raw.get(key) for key in ("classes", "attributes", "ignore_class")
     )
     batch = set(require_assignment())
     flagged = set(read_flagged())
