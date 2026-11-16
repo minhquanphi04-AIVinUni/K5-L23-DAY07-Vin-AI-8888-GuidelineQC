@@ -1,9 +1,4 @@
-# Guideline gán nhãn — v0 (bản khởi đầu)
-
-> **Đây là bản do giảng viên viết nhanh. Nó CHƯA đủ dùng.**
-> Đừng sửa file này. Hãy copy sang `submission/guidelines/individual/` rồi sửa bản của bạn
-> (xem `GUIDE.md`, Pha 1).
-
+# Guideline gán nhãn — v0
 - Phiên bản: v0
 - Loại nhãn: bounding box (hộp chữ nhật) trên ảnh đường phố
 - Công cụ: CVAT, xuất COCO 1.0
@@ -25,6 +20,8 @@ Nhãn dùng để huấn luyện mô hình phát hiện **người và phương 
 | `truck` | Xe tải. |
 | `van` | Xe thùng kín cỡ nhỏ. |
 | `motorcycle` | Xe máy, mô tô. |
+| `bus` | Xe buýt. |
+| `bicycle` | Xe đạp. |
 | `person` | Người. |
 | `ignore_region` | Vùng không cần gán từng vật. |
 
@@ -32,7 +29,7 @@ Nhãn dùng để huấn luyện mô hình phát hiện **người và phương 
 
 | Thuộc tính | Giá trị | Ý nghĩa |
 |---|---|---|
-| `occluded_level` | `0`, `1`, `2`, `3` | Mức bị che: 0 là thấy rõ, 1 là bị che ít, 2 là bị che nhiều, 3 là không rõ. |
+| `occluded_level` | `0`, `1` Mức bị che: 0 là thấy rõ, 1 là bị che|
 | `truncated` | `no`, `yes` | Vật bị cắt ở mép ảnh. |
 | `can_review` | tick / không | Tick khi bạn không chắc, để người khác xem lại. |
 
@@ -41,6 +38,7 @@ Nhãn dùng để huấn luyện mô hình phát hiện **người và phương 
 1. Gán box cho mọi người và phương tiện trong ảnh.
 2. Box ôm sát vật.
 3. Chọn đúng lớp và thuộc tính.
+4. Không gán cho tượng, hình ảnh, mô hình,..
 
 ## 4. Ca khó
 

@@ -1,7 +1,7 @@
 # Thông tin nhóm
 
-- Tên nhóm: Vin_AI_888
-- Mã thành viên (ba chữ số): 101 Phí Minh Quân, 102 Nguyễn Quang Tùng, 103 Bùi Thị Thường
+- Tên nhóm: Vin_AI_8888
+- Mã thành viên (ba chữ số): 101 Phí Minh Quân, 102 Nguyễn Quang Tùng, 103 Bùi Thị Thường, 104 Nguyễn Việt Anh
 - Người điều phối: 
 - Người review bản cuối: 
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
