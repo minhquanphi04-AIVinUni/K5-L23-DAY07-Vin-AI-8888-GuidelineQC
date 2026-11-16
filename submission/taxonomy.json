@@ -1,21 +1,22 @@
 {
   "version": "v1.0",
+  "ignore_class": "ignore-region",
   "classes": [
     {
       "name": "car",
-      "definition": "Ô tô con."
+      "definition": "Ô tô con, xe bán tải, 2 đến 9 chỗ, thường chở người và khoang xe thông nhau, khong bị ngăn cách."
     },
     {
       "name": "truck",
-      "definition": "Xe tải."
+      "definition": "Xe tải, chở hàng, có khu vực lái và khu vực chở đồ đươc tách riêng, trọng tải có khối lượng chuyên chở từ 1500kg trở lên."
     },
     {
       "name": "van",
-      "definition": "Xe thùng kín cỡ nhỏ."
+      "definition": "Xe thùng kín cỡ nhỏ, khoang xe liền, kín, buồng lái và buồng chở hàng/người được tách riêng nhưng kín và chung một khối trong khoang xe."
     },
     {
       "name": "motorcycle",
-      "definition": "Xe máy, mô tô."
+      "definition": "Xe hai bánh có động cơ."
     },
     {
       "name": "bus",
@@ -27,11 +28,15 @@
     },
     {
       "name": "bicycle",
-      "definition": "Xe đạp."
+      "definition": "Xe đạp, xe hai bánh không có động cơ."
     },
     {
       "name": "person",
       "definition": "Người."
+    },
+    {
+      "name": "ignore-region",
+      "definition": "Những vật không ảnh hưởng đến chủ thể và không cần bận tâm."
     }
   ],
   "attributes": [

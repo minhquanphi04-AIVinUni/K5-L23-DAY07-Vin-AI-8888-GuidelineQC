@@ -16,14 +16,15 @@ Nhãn dùng để huấn luyện mô hình phát hiện **người và phương 
 
 | Lớp | Định nghĩa |
 |---|---|
-| `car` | Ô tô con. |
-| `truck` | Xe tải. |
-| `van` | Xe thùng kín cỡ nhỏ. |
-| `motorcycle` | Xe máy, mô tô. |
+| `car` | Ô tô con, xe bán tải, 2 đến 9 chỗ, thường chở người và khoang xe thông nhau, khong bị ngăn cách. |
+| `truck` | Xe tải, chở hàng, có khu vực lái và khu vực chở đồ đươc tách riêng, trọng tải có khối lượng chuyên chở từ 1500kg trở lên. |
+| `van` | Xe thùng kín cỡ nhỏ, khoang xe liền, kín, buồng lái và buồng chở hàng/người được tách riêng nhưng kín và chung một khối trong khoang xe. |
+| `motorcycle` | Xe hai bánh có động cơ. |
 | `bus` | Xe buýt. |
 | `tuk_tuk` | Xe máy ba bánh chở người hoặc hàng. |
-| `bicycle` | Xe đạp. |
+| `bicycle` | Xe đạp, xe hai bánh không có động cơ. |
 | `person` | Người. |
+| `ignore-region` | Những vật không ảnh hưởng đến chủ thể và không cần bận tâm. |
 
 ### Thuộc tính
 
