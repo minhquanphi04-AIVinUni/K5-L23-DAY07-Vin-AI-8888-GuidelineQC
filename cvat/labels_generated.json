@@ -1,6 +1,7 @@
 [
   {
     "name": "car",
+    "type": "any",
     "color": "#e6194b",
     "attributes": [
       {
@@ -28,14 +29,13 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": [
-          "false"
-        ]
+        "values": []
       }
     ]
   },
   {
     "name": "truck",
+    "type": "any",
     "color": "#3cb44b",
     "attributes": [
       {
@@ -63,14 +63,13 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": [
-          "false"
-        ]
+        "values": []
       }
     ]
   },
   {
     "name": "van",
+    "type": "any",
     "color": "#4363d8",
     "attributes": [
       {
@@ -98,14 +97,13 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": [
-          "false"
-        ]
+        "values": []
       }
     ]
   },
   {
     "name": "motorcycle",
+    "type": "any",
     "color": "#f58231",
     "attributes": [
       {
@@ -133,14 +131,13 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": [
-          "false"
-        ]
+        "values": []
       }
     ]
   },
   {
     "name": "bus",
+    "type": "any",
     "color": "#911eb4",
     "attributes": [
       {
@@ -168,14 +165,13 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": [
-          "false"
-        ]
+        "values": []
       }
     ]
   },
   {
-    "name": "tuk-tuk",
+    "name": "tuk_tuk",
+    "type": "any",
     "color": "#46c8c8",
     "attributes": [
       {
@@ -203,14 +199,13 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": [
-          "false"
-        ]
+        "values": []
       }
     ]
   },
   {
     "name": "bicycle",
+    "type": "any",
     "color": "#f032e6",
     "attributes": [
       {
@@ -238,14 +233,13 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": [
-          "false"
-        ]
+        "values": []
       }
     ]
   },
   {
     "name": "person",
+    "type": "any",
     "color": "#9a6324",
     "attributes": [
       {
@@ -273,10 +267,14 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": [
-          "false"
-        ]
+        "values": []
       }
     ]
+  },
+  {
+    "name": "ignore_region",
+    "type": "any",
+    "color": "#808080",
+    "attributes": []
   }
 ]
