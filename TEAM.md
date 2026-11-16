@@ -1,6 +1,6 @@
 # Thông tin nhóm
 
-- Tên nhóm: Nhóm Vin_AI_888
+- Tên nhóm: Vin_AI_888
 - Mã thành viên (ba chữ số): 101 Phí Minh Quân, 102 Nguyễn Quang Tùng, 103 Bùi Thị Thường
 - Người điều phối: 
 - Người review bản cuối: 
