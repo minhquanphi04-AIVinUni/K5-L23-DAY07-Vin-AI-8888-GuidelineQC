@@ -1,4 +1,4 @@
-# Guideline gán nhãn — v0
+# Guideline gán nhãn — v1.0
 - Phiên bản: v1.0
 - Loại nhãn: bounding box (hộp chữ nhật) trên ảnh đường phố
 - Công cụ: CVAT, xuất COCO 1.0
@@ -21,7 +21,7 @@ Nhãn dùng để huấn luyện mô hình phát hiện **người và phương 
 | `van` | Xe thùng kín cỡ nhỏ. |
 | `motorcycle` | Xe máy, mô tô. |
 | `bus` | Xe buýt. |
-| `tuk-tuk` | Xe máy ba bánh chở người hoặc hàng. |
+| `tuk_tuk` | Xe máy ba bánh chở người hoặc hàng. |
 | `bicycle` | Xe đạp. |
 | `person` | Người. |
 
@@ -29,9 +29,9 @@ Nhãn dùng để huấn luyện mô hình phát hiện **người và phương 
 
 | Thuộc tính | Giá trị | Ý nghĩa |
 |---|---|---|
-| `occluded_level` | `0`, `1` Mức bị che: 0 là thấy rõ, 1 là bị che|
-| `truncated` | `no`, `yes` | Vật bị cắt ở mép ảnh. |
-| `can_review` | tick / không | Tick khi bạn không chắc, để người khác xem lại. |
+| `occluded_level` | tick / không (`true` / `false`) | Tick khi vật bị che; không tick khi thấy rõ. |
+| `truncated` | tick / không (`true` / `false`) | Tick khi vật bị cắt ở mép ảnh. |
+| `can_review` | tick / không (`true` / `false`) | Tick khi bạn không chắc, để người khác xem lại. |
 
 ## 3. Quy tắc vẽ box
 

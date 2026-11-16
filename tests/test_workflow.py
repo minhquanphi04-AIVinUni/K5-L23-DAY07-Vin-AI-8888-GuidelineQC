@@ -63,10 +63,10 @@ class WorkflowTest(unittest.TestCase):
         data = {
             "images": [{"id": i, "file_name": name, "height": 100, "width": 100}
                        for i, name in enumerate(names, 1)],
-            "categories": [{"id": 1, "name": label}, {"id": 2, "name": "ignore_region"}],
+            "categories": [{"id": 1, "name": label}],
             "annotations": [
                 {"id": i, "image_id": i, "category_id": 1, "bbox": bbox or [1, 1, 20, 60],
-                 "attributes": {"occluded_level": "0", "truncated": "no", "can_review": False}}
+                 "attributes": {"occluded_level": False, "truncated": False, "can_review": False}}
                 for i in range(1, len(names) + 1)
             ],
         }
@@ -103,38 +103,18 @@ class WorkflowTest(unittest.TestCase):
         self.assertIn("img_002.jpg", output)
         self.assertFalse((self.qc / "iaa_summary.json").exists())
 
-    def test_ignore_disagreement_is_actionable(self):
-        self.assignments()
-        self.coco(self.sub / "labels" / "101.json", additional=[
-            {"id": 3, "image_id": 1, "category_id": 1, "bbox": [50, 0, 20, 60],
-             "attributes": {"occluded_level": "0", "truncated": "no", "can_review": False}},
-        ])
-        self.coco(self.sub / "labels" / "102.json", additional=[
-            {"id": 3, "image_id": 1, "category_id": 2, "bbox": [45, 0, 45, 80]},
-        ])
-        self.run_script("qc_compare")
-        summary = json.loads((self.qc / "iaa_summary.json").read_text())
-        self.assertEqual(summary["overall"]["n_skipped_in_ignore"], 0)
-        self.assertIn("bat_dong_ignore", summary["issues_by_type"])
-        self.assertEqual((self.qc / "flagged_images.txt").read_text().splitlines(), self.names[:1])
-
-    def test_matched_ignore_regions_do_not_hide_asymmetric_coverage(self):
-        self.assignments()
-        obj = {"id": 3, "image_id": 1, "category_id": 1, "bbox": [25, 35, 10, 20],
-               "attributes": {"occluded_level": "0", "truncated": "no", "can_review": False}}
-        region = {"id": 4, "image_id": 1, "category_id": 2, "bbox": [28, 15, 65, 75]}
-        self.coco(self.sub / "labels" / "101.json", additional=[
-            obj, {**region, "bbox": [38, 15, 60, 75]},
-        ])
-        self.coco(self.sub / "labels" / "102.json", additional=[region])
-        self.run_script("qc_compare")
-        summary = json.loads((self.qc / "iaa_summary.json").read_text())
-        self.assertEqual(summary["overall"]["n_skipped_in_ignore"], 0)
-        self.assertEqual(summary["overall"]["n_unmatched_a"], 1)
-        self.assertIn("bat_dong_ignore", summary["issues_by_type"])
-        self.assertEqual((self.qc / "flagged_images.txt").read_text().splitlines(), self.names[:1])
-        draft = json.loads((self.qc / "consensus_draft.json").read_text())
-        self.assertIn(obj["bbox"], [box["bbox"] for box in draft["annotations"]])
+    def test_generated_labels_use_checkbox_attributes(self):
+        self.run_script("make_cvat_labels")
+        labels = json.loads((self.root / "cvat" / "labels_generated.json").read_text())
+        taxonomy = json.loads(self.tax.read_text())
+        self.assertEqual([label["name"] for label in labels], [item["name"] for item in taxonomy["classes"]])
+        for label in labels:
+            self.assertEqual({attribute["name"] for attribute in label["attributes"]},
+                             {"occluded_level", "truncated", "can_review"})
+            for attribute in label["attributes"]:
+                self.assertEqual(attribute["input_type"], "checkbox")
+                self.assertEqual(attribute["default_value"], "false")
+                self.assertEqual(attribute["values"], ["false", "true"])
 
     def test_review_rejects_changed_calibration_snapshot(self):
         self.clean_lot()

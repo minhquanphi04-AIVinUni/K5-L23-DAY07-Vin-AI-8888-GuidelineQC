@@ -6,7 +6,7 @@ Dùng instance CVAT do lớp chỉ định (coach đã kiểm quyền tạo Task
 
 1. `python scripts/make_cvat_labels.py` → `cvat/labels_generated.json`.
 2. **Projects → Create new project → Labels → Raw**: dán nội dung file, lưu.
-3. Kiểm: mỗi lớp có `occluded_level`, `truncated`, `can_review`.
+3. Kiểm: mỗi lớp có ba thuộc tính dạng checkbox `occluded_level`, `truncated`, `can_review` (mặc định không tick).
 
 Tên nhãn trong CVAT phải trùng `taxonomy.json`.
 
@@ -21,7 +21,7 @@ Tên nhãn trong CVAT phải trùng `taxonomy.json`.
 | `F` / `D` | ảnh sau / ảnh trước |
 | `Ctrl` + `S` | lưu (có thể khác tuỳ máy) |
 
-- Gán `occluded_level` của nhóm. Cờ occluded có sẵn của CVAT (phím `Q`) là trường **khác**, script bỏ qua.
+- Tick `occluded_level` khi vật bị che, tick `truncated` khi vật bị cắt ở mép ảnh. Cờ occluded có sẵn của CVAT (phím `Q`) là trường **khác**, script bỏ qua.
 - Box mơ hồ: tick `can_review`.
 - Chưa vẽ được box: ghi vấn đề cấp ảnh (ảnh, vùng, lý do) để nhóm thu vào `image_issues.csv`.
 - Ảnh không có đối tượng: vẫn nằm trong Task.

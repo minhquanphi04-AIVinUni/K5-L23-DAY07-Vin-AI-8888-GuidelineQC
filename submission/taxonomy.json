@@ -37,21 +37,15 @@
   "attributes": [
     {
       "name": "occluded_level",
-      "type": "select",
-      "values": [
-        "0",
-        "1"
-      ],
-      "default": "0"
+      "type": "checkbox",
+      "values": [],
+      "default": "false"
     },
     {
       "name": "truncated",
-      "type": "select",
-      "values": [
-        "no",
-        "yes"
-      ],
-      "default": "no"
+      "type": "checkbox",
+      "values": [],
+      "default": "false"
     },
     {
       "name": "can_review",

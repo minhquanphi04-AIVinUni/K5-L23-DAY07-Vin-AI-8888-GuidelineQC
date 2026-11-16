@@ -26,7 +26,7 @@
 | `thua` | Thừa | box trên tượng / phản chiếu / hình in |
 | `sai_lop` | Sai lớp | xe con gán `truck` |
 | `sai_vi_tri_kich_thuoc` | Sai vị trí, kích thước | box lỏng, thiếu đuôi xe |
-| `sai_thuoc_tinh` | Sai thuộc tính | `occluded_level` sai mức |
+| `sai_thuoc_tinh` | Sai thuộc tính | Tick `occluded_level` không đúng |
 | `khong` | Không lỗi | ảnh đã duyệt, sạch |
 
 Một ảnh có thể có nhiều lỗi (mỗi lỗi một dòng). Quy định từng dòng: [scripts/README.md](../scripts/README.md#phiếu-qc).

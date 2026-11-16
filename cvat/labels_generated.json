@@ -7,21 +7,21 @@
       {
         "name": "occluded_level",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "0",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "0",
-          "1"
+          "false",
+          "true"
         ]
       },
       {
         "name": "truncated",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "no",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "no",
-          "yes"
+          "false",
+          "true"
         ]
       },
       {
@@ -44,21 +44,21 @@
       {
         "name": "occluded_level",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "0",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "0",
-          "1"
+          "false",
+          "true"
         ]
       },
       {
         "name": "truncated",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "no",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "no",
-          "yes"
+          "false",
+          "true"
         ]
       },
       {
@@ -81,21 +81,21 @@
       {
         "name": "occluded_level",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "0",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "0",
-          "1"
+          "false",
+          "true"
         ]
       },
       {
         "name": "truncated",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "no",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "no",
-          "yes"
+          "false",
+          "true"
         ]
       },
       {
@@ -118,21 +118,21 @@
       {
         "name": "occluded_level",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "0",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "0",
-          "1"
+          "false",
+          "true"
         ]
       },
       {
         "name": "truncated",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "no",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "no",
-          "yes"
+          "false",
+          "true"
         ]
       },
       {
@@ -155,21 +155,21 @@
       {
         "name": "occluded_level",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "0",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "0",
-          "1"
+          "false",
+          "true"
         ]
       },
       {
         "name": "truncated",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "no",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "no",
-          "yes"
+          "false",
+          "true"
         ]
       },
       {
@@ -192,21 +192,21 @@
       {
         "name": "occluded_level",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "0",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "0",
-          "1"
+          "false",
+          "true"
         ]
       },
       {
         "name": "truncated",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "no",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "no",
-          "yes"
+          "false",
+          "true"
         ]
       },
       {
@@ -229,21 +229,21 @@
       {
         "name": "occluded_level",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "0",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "0",
-          "1"
+          "false",
+          "true"
         ]
       },
       {
         "name": "truncated",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "no",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "no",
-          "yes"
+          "false",
+          "true"
         ]
       },
       {
@@ -266,21 +266,21 @@
       {
         "name": "occluded_level",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "0",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "0",
-          "1"
+          "false",
+          "true"
         ]
       },
       {
         "name": "truncated",
         "mutable": false,
-        "input_type": "select",
-        "default_value": "no",
+        "input_type": "checkbox",
+        "default_value": "false",
         "values": [
-          "no",
-          "yes"
+          "false",
+          "true"
         ]
       },
       {
