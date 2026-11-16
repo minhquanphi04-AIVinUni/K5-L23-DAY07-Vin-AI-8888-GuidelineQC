@@ -1,10 +1,8 @@
 # Guideline gán nhãn — v0 (bản khởi đầu)
 
-> **Đây là bản do giảng viên viết nhanh. Nó CHƯA đủ dùng.**
-> Đừng sửa file này. Hãy copy sang `submission/guidelines/individual/` rồi sửa bản của bạn
-> (xem `GUIDE.md`, Pha 1).
-
 - Phiên bản: v0
+- Ngày viết: 16/11/2026
+- Người viết: 103
 - Loại nhãn: bounding box (hộp chữ nhật) trên ảnh đường phố
 - Công cụ: CVAT, xuất COCO 1.0
 
@@ -30,7 +28,7 @@ Nhãn dùng để huấn luyện mô hình phát hiện **người và phương 
 | `tuktuk` | xe 3 bánh chở hàng hoặc chở người |
 | `person` | Người đứng hoặc đi bộ, không phải ma-nơ-canh |
 | `rider` | người ngồi trên xe 2 bánh/ 3 bánh |
-| `ignore_region` | Vùng không cần gán từng vật. |
+
 
 ### Thuộc tính
 
