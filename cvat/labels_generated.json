@@ -294,11 +294,5 @@
         ]
       }
     ]
-  },
-  {
-    "name": "ignore_region",
-    "type": "any",
-    "color": "#808080",
-    "attributes": []
   }
 ]

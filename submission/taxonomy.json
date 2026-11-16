@@ -1,6 +1,5 @@
 {
   "version": "v1.0",
-  "ignore_class": "ignore_region",
   "classes": [
     {
       "name": "car",
