@@ -1,0 +1,2 @@
+submission/qc/*.csv -text
+submission/qc/reviews/round-*/*.csv -text

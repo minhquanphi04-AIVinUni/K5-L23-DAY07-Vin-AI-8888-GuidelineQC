@@ -24,15 +24,14 @@ def main() -> None:
     labels = []
     for i, name in enumerate(tax.classes):
         attrs = []
-        if name != tax.ignore:
-            for a in tax.attrs.values():
-                attrs.append({
-                    "name": a["name"],
-                    "mutable": False,
-                    "input_type": a["type"],
-                    "default_value": str(a.get("default", "")),
-                    "values": [str(v) for v in a.get("values", [])] if a["type"] == "select" else ["false", "true"],
-                })
+        for a in tax.attrs.values():
+            attrs.append({
+                "name": a["name"],
+                "mutable": False,
+                "input_type": a["type"],
+                "default_value": str(a.get("default", "")),
+                "values": [str(v) for v in a.get("values", [])] if a["type"] == "select" else ["false", "true"],
+            })
         labels.append({
             "name": name,
             "type": "any",

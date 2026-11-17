@@ -1,0 +1,558 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_001.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C001,102: đã xác nhận,anh
+C002,img_001.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C002,102: đã xác nhận,anh
+C003,img_001.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C003,102: đã xác nhận,anh
+C004,img_001.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C004,102: đã xác nhận,anh
+C005,img_001.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C005,102: đã xác nhận,anh
+C006,img_001.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C006,102: đã xác nhận,anh
+C007,img_001.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C007,102: đã xác nhận,anh
+C008,img_001.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C008,102: đã xác nhận,anh
+C009,img_001.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C009,102: đã xác nhận,anh
+C010,img_001.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C010,102: đã xác nhận,anh
+C011,img_001.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C011,102: đã xác nhận,anh
+C012,img_002.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C012,102: đã xác nhận,anh
+C013,img_002.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C013,102: đã xác nhận,anh
+C014,img_002.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C014,102: đã xác nhận,anh
+C015,img_002.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C015,102: đã xác nhận,anh
+C016,img_002.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C016,102: đã xác nhận,anh
+C017,img_002.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C017,102: đã xác nhận,anh
+C018,img_002.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C018,102: đã xác nhận,anh
+C019,img_002.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C019,102: đã xác nhận,anh
+C020,img_002.jpg,"Gán xe chở là truck, xe con trên sàn là car theo R-02",R-02,v1.1,101,CVAT #C020,102: đã xác nhận,anh
+C021,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C021,102: đã xác nhận,anh
+C022,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C022,102: đã xác nhận,anh
+C023,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C023,102: đã xác nhận,anh
+C024,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C024,102: đã xác nhận,anh
+C025,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C025,102: đã xác nhận,anh
+C026,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C026,102: đã xác nhận,anh
+C027,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C027,102: đã xác nhận,anh
+C028,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C028,102: đã xác nhận,anh
+C029,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C029,102: đã xác nhận,anh
+C030,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C030,102: đã xác nhận,anh
+C031,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C031,102: đã xác nhận,anh
+C032,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C032,102: đã xác nhận,anh
+C033,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C033,102: đã xác nhận,anh
+C034,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C034,102: đã xác nhận,anh
+C035,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C035,102: đã xác nhận,anh
+C036,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C036,102: đã xác nhận,anh
+C037,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C037,102: đã xác nhận,anh
+C038,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C038,102: đã xác nhận,anh
+C039,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C039,102: đã xác nhận,anh
+C040,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C040,102: đã xác nhận,anh
+C041,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C041,102: đã xác nhận,anh
+C042,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C042,102: đã xác nhận,anh
+C043,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C043,102: đã xác nhận,anh
+C044,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C044,102: đã xác nhận,anh
+C045,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C045,102: đã xác nhận,anh
+C046,img_003.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C046,102: đã xác nhận,anh
+C047,img_003.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C047,102: đã xác nhận,anh
+C048,img_003.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C048,102: đã xác nhận,anh
+C049,img_003.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C049,102: đã xác nhận,anh
+C050,img_003.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C050,102: đã xác nhận,anh
+C051,img_003.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C051,102: đã xác nhận,anh
+C052,img_003.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C052,102: đã xác nhận,anh
+C053,img_003.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C053,102: đã xác nhận,anh
+C054,img_003.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C054,102: đã xác nhận,anh
+C055,img_003.jpg,Chốt truncated=yes khi vật chạm mép ảnh theo R-05,R-05,v1.1,101,CVAT #C055,102: đã xác nhận,anh
+C056,img_004.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C056,102: đã xác nhận,anh
+C057,img_004.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C057,102: đã xác nhận,anh
+C058,img_004.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C058,102: đã xác nhận,anh
+C059,img_005.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C059,102: đã xác nhận,anh
+C060,img_005.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C060,102: đã xác nhận,anh
+C061,img_005.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C061,102: đã xác nhận,anh
+C062,img_005.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C062,102: đã xác nhận,anh
+C063,img_005.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C063,102: đã xác nhận,anh
+C064,img_005.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C064,102: đã xác nhận,anh
+C065,img_005.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C065,102: đã xác nhận,anh
+C066,img_005.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C066,102: đã xác nhận,anh
+C067,img_005.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C067,102: đã xác nhận,anh
+C068,img_006.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C068,102: đã xác nhận,anh
+C069,img_006.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C069,102: đã xác nhận,anh
+C070,img_006.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C070,102: đã xác nhận,anh
+C071,img_006.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C071,102: đã xác nhận,anh
+C072,img_006.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C072,102: đã xác nhận,anh
+C073,img_006.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C073,102: đã xác nhận,anh
+C074,img_006.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C074,102: đã xác nhận,anh
+C075,img_006.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C075,102: đã xác nhận,anh
+C076,img_006.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C076,102: đã xác nhận,anh
+C077,img_006.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C077,102: đã xác nhận,anh
+C078,img_006.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C078,102: đã xác nhận,anh
+C079,img_006.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C079,102: đã xác nhận,anh
+C080,img_006.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C080,102: đã xác nhận,anh
+C081,img_006.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C081,102: đã xác nhận,anh
+C082,img_006.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C082,102: đã xác nhận,anh
+C083,img_006.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C083,102: đã xác nhận,anh
+C084,img_006.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C084,102: đã xác nhận,anh
+C085,img_006.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C085,102: đã xác nhận,anh
+C086,img_006.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C086,102: đã xác nhận,anh
+C087,img_006.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C087,102: đã xác nhận,anh
+C088,img_006.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C088,102: đã xác nhận,anh
+C089,img_006.jpg,Chốt truncated=yes khi vật chạm mép ảnh theo R-05,R-05,v1.1,101,CVAT #C089,102: đã xác nhận,anh
+C090,img_006.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C090,102: đã xác nhận,anh
+C091,img_006.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C091,102: đã xác nhận,anh
+C092,img_006.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C092,102: đã xác nhận,anh
+C093,img_006.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C093,102: đã xác nhận,anh
+C094,img_006.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C094,102: đã xác nhận,anh
+C095,img_006.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C095,102: đã xác nhận,anh
+C096,img_006.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C096,102: đã xác nhận,anh
+C097,img_007.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C097,102: đã xác nhận,anh
+C098,img_007.jpg,"Gán xe chở là truck, xe con trên sàn là car theo R-02",R-02,v1.1,101,CVAT #C098,102: đã xác nhận,anh
+C099,img_007.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C099,102: đã xác nhận,anh
+C100,img_007.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C100,102: đã xác nhận,anh
+C101,img_008.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C101,102: đã xác nhận,anh
+C102,img_008.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C102,102: đã xác nhận,anh
+C103,img_008.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C103,102: đã xác nhận,anh
+C104,img_008.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C104,102: đã xác nhận,anh
+C105,img_008.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C105,102: đã xác nhận,anh
+C106,img_008.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C106,102: đã xác nhận,anh
+C107,img_008.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C107,102: đã xác nhận,anh
+C108,img_008.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C108,102: đã xác nhận,anh
+C109,img_008.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C109,102: đã xác nhận,anh
+C110,img_008.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C110,102: đã xác nhận,anh
+C111,img_008.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C111,102: đã xác nhận,anh
+C112,img_008.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C112,102: đã xác nhận,anh
+C113,img_008.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C113,102: đã xác nhận,anh
+C114,img_008.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C114,102: đã xác nhận,anh
+C115,img_008.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C115,102: đã xác nhận,anh
+C116,img_008.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C116,102: đã xác nhận,anh
+C117,img_008.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C117,102: đã xác nhận,anh
+C118,img_008.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C118,102: đã xác nhận,anh
+C119,img_008.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C119,102: đã xác nhận,anh
+C120,img_008.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C120,102: đã xác nhận,anh
+C121,img_008.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C121,102: đã xác nhận,anh
+C122,img_008.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C122,102: đã xác nhận,anh
+C123,img_008.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C123,102: đã xác nhận,anh
+C124,img_008.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C124,102: đã xác nhận,anh
+C125,img_008.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C125,102: đã xác nhận,anh
+C126,img_008.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C126,102: đã xác nhận,anh
+C127,img_008.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C127,102: đã xác nhận,anh
+C128,img_008.jpg,"Gán xe chở là truck, xe con trên sàn là car theo R-02",R-02,v1.1,101,CVAT #C128,102: đã xác nhận,anh
+C129,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C129,102: đã xác nhận,anh
+C130,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C130,102: đã xác nhận,anh
+C131,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C131,102: đã xác nhận,anh
+C132,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C132,102: đã xác nhận,anh
+C133,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C133,102: đã xác nhận,anh
+C134,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C134,102: đã xác nhận,anh
+C135,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C135,102: đã xác nhận,anh
+C136,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C136,102: đã xác nhận,anh
+C137,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C137,102: đã xác nhận,anh
+C138,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C138,102: đã xác nhận,anh
+C139,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C139,102: đã xác nhận,anh
+C140,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C140,102: đã xác nhận,anh
+C141,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C141,102: đã xác nhận,anh
+C142,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C142,102: đã xác nhận,anh
+C143,img_008.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C143,102: đã xác nhận,anh
+C144,img_009.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C144,102: đã xác nhận,anh
+C145,img_009.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C145,102: đã xác nhận,anh
+C146,img_009.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C146,102: đã xác nhận,anh
+C147,img_009.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C147,102: đã xác nhận,anh
+C148,img_009.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C148,102: đã xác nhận,anh
+C149,img_009.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C149,102: đã xác nhận,anh
+C150,img_009.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C150,102: đã xác nhận,anh
+C151,img_009.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C151,102: đã xác nhận,anh
+C152,img_010.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C152,102: đã xác nhận,anh
+C153,img_010.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C153,102: đã xác nhận,anh
+C154,img_010.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C154,102: đã xác nhận,anh
+C155,img_010.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C155,102: đã xác nhận,anh
+C156,img_010.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C156,102: đã xác nhận,anh
+C157,img_010.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C157,102: đã xác nhận,anh
+C158,img_010.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C158,102: đã xác nhận,anh
+C159,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C159,102: đã xác nhận,anh
+C160,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C160,102: đã xác nhận,anh
+C161,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C161,102: đã xác nhận,anh
+C162,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C162,102: đã xác nhận,anh
+C163,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C163,102: đã xác nhận,anh
+C164,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C164,102: đã xác nhận,anh
+C165,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C165,102: đã xác nhận,anh
+C166,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C166,102: đã xác nhận,anh
+C167,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C167,102: đã xác nhận,anh
+C168,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C168,102: đã xác nhận,anh
+C169,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C169,102: đã xác nhận,anh
+C170,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C170,102: đã xác nhận,anh
+C171,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C171,102: đã xác nhận,anh
+C172,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C172,102: đã xác nhận,anh
+C173,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C173,102: đã xác nhận,anh
+C174,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C174,102: đã xác nhận,anh
+C175,img_011.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C175,102: đã xác nhận,anh
+C176,img_011.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C176,102: đã xác nhận,anh
+C177,img_011.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C177,102: đã xác nhận,anh
+C178,img_011.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C178,102: đã xác nhận,anh
+C179,img_011.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C179,102: đã xác nhận,anh
+C180,img_011.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C180,102: đã xác nhận,anh
+C181,img_012.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C181,102: đã xác nhận,anh
+C182,img_012.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C182,102: đã xác nhận,anh
+C183,img_012.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C183,102: đã xác nhận,anh
+C184,img_013.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C184,102: đã xác nhận,anh
+C185,img_013.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C185,102: đã xác nhận,anh
+C186,img_013.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C186,102: đã xác nhận,anh
+C187,img_014.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C187,102: đã xác nhận,anh
+C188,img_014.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C188,102: đã xác nhận,anh
+C189,img_014.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C189,102: đã xác nhận,anh
+C190,img_014.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C190,102: đã xác nhận,anh
+C191,img_014.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C191,102: đã xác nhận,anh
+C192,img_014.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C192,102: đã xác nhận,anh
+C193,img_014.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C193,102: đã xác nhận,anh
+C194,img_015.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C194,102: đã xác nhận,anh
+C195,img_015.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C195,102: đã xác nhận,anh
+C196,img_015.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C196,102: đã xác nhận,anh
+C197,img_015.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C197,102: đã xác nhận,anh
+C198,img_016.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C198,102: đã xác nhận,anh
+C199,img_016.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C199,102: đã xác nhận,anh
+C200,img_016.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C200,102: đã xác nhận,anh
+C201,img_016.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C201,102: đã xác nhận,anh
+C202,img_016.jpg,"Gán xe chở là truck, xe con trên sàn là car theo R-02",R-02,v1.1,101,CVAT #C202,102: đã xác nhận,anh
+C203,img_016.jpg,Chốt truncated=yes khi vật chạm mép ảnh theo R-05,R-05,v1.1,101,CVAT #C203,102: đã xác nhận,anh
+C204,img_016.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C204,102: đã xác nhận,anh
+C205,img_016.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C205,102: đã xác nhận,anh
+C206,img_016.jpg,Chốt truncated=yes khi vật chạm mép ảnh theo R-05,R-05,v1.1,101,CVAT #C206,102: đã xác nhận,anh
+C207,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C207,102: đã xác nhận,anh
+C208,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C208,102: đã xác nhận,anh
+C209,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C209,102: đã xác nhận,anh
+C210,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C210,102: đã xác nhận,anh
+C211,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C211,102: đã xác nhận,anh
+C212,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C212,102: đã xác nhận,anh
+C213,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C213,102: đã xác nhận,anh
+C214,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C214,102: đã xác nhận,anh
+C215,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C215,102: đã xác nhận,anh
+C216,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C216,102: đã xác nhận,anh
+C217,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C217,102: đã xác nhận,anh
+C218,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C218,102: đã xác nhận,anh
+C219,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C219,102: đã xác nhận,anh
+C220,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C220,102: đã xác nhận,anh
+C221,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C221,102: đã xác nhận,anh
+C222,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C222,102: đã xác nhận,anh
+C223,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C223,102: đã xác nhận,anh
+C224,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C224,102: đã xác nhận,anh
+C225,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C225,102: đã xác nhận,anh
+C226,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C226,102: đã xác nhận,anh
+C227,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C227,102: đã xác nhận,anh
+C228,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C228,102: đã xác nhận,anh
+C229,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C229,102: đã xác nhận,anh
+C230,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C230,102: đã xác nhận,anh
+C231,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C231,102: đã xác nhận,anh
+C232,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C232,102: đã xác nhận,anh
+C233,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C233,102: đã xác nhận,anh
+C234,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C234,102: đã xác nhận,anh
+C235,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C235,102: đã xác nhận,anh
+C236,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C236,102: đã xác nhận,anh
+C237,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C237,102: đã xác nhận,anh
+C238,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C238,102: đã xác nhận,anh
+C239,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C239,102: đã xác nhận,anh
+C240,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C240,102: đã xác nhận,anh
+C241,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C241,102: đã xác nhận,anh
+C242,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C242,102: đã xác nhận,anh
+C243,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C243,102: đã xác nhận,anh
+C244,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C244,102: đã xác nhận,anh
+C245,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C245,102: đã xác nhận,anh
+C246,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C246,102: đã xác nhận,anh
+C247,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C247,102: đã xác nhận,anh
+C248,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C248,102: đã xác nhận,anh
+C249,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C249,102: đã xác nhận,anh
+C250,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C250,102: đã xác nhận,anh
+C251,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C251,102: đã xác nhận,anh
+C252,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C252,102: đã xác nhận,anh
+C253,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C253,102: đã xác nhận,anh
+C254,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C254,102: đã xác nhận,anh
+C255,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C255,102: đã xác nhận,anh
+C256,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C256,102: đã xác nhận,anh
+C257,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C257,102: đã xác nhận,anh
+C258,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C258,102: đã xác nhận,anh
+C259,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C259,102: đã xác nhận,anh
+C260,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C260,102: đã xác nhận,anh
+C261,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C261,102: đã xác nhận,anh
+C262,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C262,102: đã xác nhận,anh
+C263,img_019.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C263,102: đã xác nhận,anh
+C264,img_019.jpg,Đã rà soát ảnh thực tế và tháo cờ can_review theo R-01,R-01,v1.1,101,CVAT #C264,102: đã xác nhận,anh
+C265,img_019.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C265,102: đã xác nhận,anh
+C266,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C266,102: đã xác nhận,anh
+C267,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C267,102: đã xác nhận,anh
+C268,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C268,102: đã xác nhận,anh
+C269,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C269,102: đã xác nhận,anh
+C270,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C270,102: đã xác nhận,anh
+C271,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C271,102: đã xác nhận,anh
+C272,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C272,102: đã xác nhận,anh
+C273,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C273,102: đã xác nhận,anh
+C274,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C274,102: đã xác nhận,anh
+C275,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C275,102: đã xác nhận,anh
+C276,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C276,102: đã xác nhận,anh
+C277,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C277,102: đã xác nhận,anh
+C278,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C278,102: đã xác nhận,anh
+C279,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C279,102: đã xác nhận,anh
+C280,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C280,102: đã xác nhận,anh
+C281,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C281,102: đã xác nhận,anh
+C282,img_021.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C282,102: đã xác nhận,anh
+C283,img_021.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C283,102: đã xác nhận,anh
+C284,img_021.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C284,102: đã xác nhận,anh
+C285,img_021.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C285,102: đã xác nhận,anh
+C286,img_021.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C286,102: đã xác nhận,anh
+C287,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C287,102: đã xác nhận,anh
+C288,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C288,102: đã xác nhận,anh
+C289,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C289,102: đã xác nhận,anh
+C290,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C290,102: đã xác nhận,anh
+C291,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C291,102: đã xác nhận,anh
+C292,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C292,102: đã xác nhận,anh
+C293,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C293,102: đã xác nhận,anh
+C294,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C294,102: đã xác nhận,anh
+C295,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C295,102: đã xác nhận,anh
+C296,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C296,102: đã xác nhận,anh
+C297,img_021.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C297,102: đã xác nhận,anh
+C298,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C298,102: đã xác nhận,anh
+C299,img_021.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C299,102: đã xác nhận,anh
+C300,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C300,102: đã xác nhận,anh
+C301,img_021.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C301,102: đã xác nhận,anh
+C302,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C302,102: đã xác nhận,anh
+C303,img_021.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C303,102: đã xác nhận,anh
+C304,img_021.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C304,102: đã xác nhận,anh
+C305,img_021.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C305,102: đã xác nhận,anh
+C306,img_021.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C306,102: đã xác nhận,anh
+C307,img_021.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C307,102: đã xác nhận,anh
+C308,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C308,102: đã xác nhận,anh
+C309,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C309,102: đã xác nhận,anh
+C310,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C310,102: đã xác nhận,anh
+C311,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C311,102: đã xác nhận,anh
+C312,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C312,102: đã xác nhận,anh
+C313,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C313,102: đã xác nhận,anh
+C314,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C314,102: đã xác nhận,anh
+C315,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C315,102: đã xác nhận,anh
+C316,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C316,102: đã xác nhận,anh
+C317,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C317,102: đã xác nhận,anh
+C318,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C318,102: đã xác nhận,anh
+C319,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C319,102: đã xác nhận,anh
+C320,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C320,102: đã xác nhận,anh
+C321,img_021.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C321,102: đã xác nhận,anh
+C322,img_021.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C322,102: đã xác nhận,anh
+C323,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C323,102: đã xác nhận,anh
+C324,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C324,102: đã xác nhận,anh
+C325,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C325,102: đã xác nhận,anh
+C326,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C326,102: đã xác nhận,anh
+C327,img_021.jpg,Chốt truncated=yes khi vật chạm mép ảnh theo R-05,R-05,v1.1,101,CVAT #C327,102: đã xác nhận,anh
+C328,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C328,102: đã xác nhận,anh
+C329,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C329,102: đã xác nhận,anh
+C330,img_021.jpg,Chốt truncated=yes khi vật chạm mép ảnh theo R-05,R-05,v1.1,101,CVAT #C330,102: đã xác nhận,anh
+C331,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C331,102: đã xác nhận,anh
+C332,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C332,102: đã xác nhận,anh
+C333,img_021.jpg,Chốt truncated=yes khi vật chạm mép ảnh theo R-05,R-05,v1.1,101,CVAT #C333,102: đã xác nhận,anh
+C334,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C334,102: đã xác nhận,anh
+C335,img_021.jpg,Chốt truncated=yes khi vật chạm mép ảnh theo R-05,R-05,v1.1,101,CVAT #C335,102: đã xác nhận,anh
+C336,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C336,102: đã xác nhận,anh
+C337,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C337,102: đã xác nhận,anh
+C338,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C338,102: đã xác nhận,anh
+C339,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C339,102: đã xác nhận,anh
+C340,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C340,102: đã xác nhận,anh
+C341,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C341,102: đã xác nhận,anh
+C342,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C342,102: đã xác nhận,anh
+C343,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C343,102: đã xác nhận,anh
+C344,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C344,102: đã xác nhận,anh
+C345,img_021.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C345,102: đã xác nhận,anh
+C346,img_022.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C346,102: đã xác nhận,anh
+C347,img_022.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C347,102: đã xác nhận,anh
+C348,img_023.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C348,102: đã xác nhận,anh
+C349,img_023.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C349,102: đã xác nhận,anh
+C350,img_023.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C350,102: đã xác nhận,anh
+C351,img_023.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C351,102: đã xác nhận,anh
+C352,img_023.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C352,102: đã xác nhận,anh
+C353,img_023.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C353,102: đã xác nhận,anh
+C354,img_023.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C354,102: đã xác nhận,anh
+C355,img_023.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C355,102: đã xác nhận,anh
+C356,img_023.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C356,102: đã xác nhận,anh
+C357,img_023.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C357,102: đã xác nhận,anh
+C358,img_023.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C358,102: đã xác nhận,anh
+C359,img_023.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C359,102: đã xác nhận,anh
+C360,img_023.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C360,102: đã xác nhận,anh
+C361,img_023.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C361,102: đã xác nhận,anh
+C362,img_023.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C362,102: đã xác nhận,anh
+C363,img_023.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C363,102: đã xác nhận,anh
+C364,img_023.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C364,102: đã xác nhận,anh
+C365,img_023.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C365,102: đã xác nhận,anh
+C366,img_023.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C366,102: đã xác nhận,anh
+C367,img_023.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C367,102: đã xác nhận,anh
+C368,img_023.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C368,102: đã xác nhận,anh
+C369,img_024.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C369,102: đã xác nhận,anh
+C370,img_024.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C370,102: đã xác nhận,anh
+C371,img_024.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C371,102: đã xác nhận,anh
+C372,img_024.jpg,Chốt truncated=yes khi vật chạm mép ảnh theo R-05,R-05,v1.1,101,CVAT #C372,102: đã xác nhận,anh
+C373,img_024.jpg,Chốt truncated=yes khi vật chạm mép ảnh theo R-05,R-05,v1.1,101,CVAT #C373,102: đã xác nhận,anh
+C374,img_024.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C374,102: đã xác nhận,anh
+C375,img_025.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C375,102: đã xác nhận,anh
+C376,img_025.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C376,102: đã xác nhận,anh
+C377,img_025.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C377,102: đã xác nhận,anh
+C378,img_025.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C378,102: đã xác nhận,anh
+C379,img_025.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C379,102: đã xác nhận,anh
+C380,img_025.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C380,102: đã xác nhận,anh
+C381,img_025.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C381,102: đã xác nhận,anh
+C382,img_025.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C382,102: đã xác nhận,anh
+C383,img_025.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C383,102: đã xác nhận,anh
+C384,img_025.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C384,102: đã xác nhận,anh
+C385,img_025.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C385,102: đã xác nhận,anh
+C386,img_025.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C386,102: đã xác nhận,anh
+C387,img_025.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C387,102: đã xác nhận,anh
+C388,img_025.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C388,102: đã xác nhận,anh
+C389,img_025.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C389,102: đã xác nhận,anh
+C390,img_025.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C390,102: đã xác nhận,anh
+C391,img_025.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C391,102: đã xác nhận,anh
+C392,img_025.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C392,102: đã xác nhận,anh
+C393,img_026.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C393,102: đã xác nhận,anh
+C394,img_026.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C394,102: đã xác nhận,anh
+C395,img_026.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C395,102: đã xác nhận,anh
+C396,img_028.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C396,102: đã xác nhận,anh
+C397,img_028.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C397,102: đã xác nhận,anh
+C398,img_029.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C398,102: đã xác nhận,anh
+C399,img_029.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C399,102: đã xác nhận,anh
+C400,img_029.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C400,102: đã xác nhận,anh
+C401,img_029.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C401,102: đã xác nhận,anh
+C402,img_029.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C402,102: đã xác nhận,anh
+C403,img_029.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C403,102: đã xác nhận,anh
+C404,img_029.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C404,102: đã xác nhận,anh
+C405,img_029.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C405,102: đã xác nhận,anh
+C406,img_029.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C406,102: đã xác nhận,anh
+C407,img_029.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C407,102: đã xác nhận,anh
+C408,img_029.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C408,102: đã xác nhận,anh
+C409,img_029.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C409,102: đã xác nhận,anh
+C410,img_029.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C410,102: đã xác nhận,anh
+C411,img_029.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C411,102: đã xác nhận,anh
+C412,img_030.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C412,102: đã xác nhận,anh
+C413,img_030.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C413,102: đã xác nhận,anh
+C414,img_030.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C414,102: đã xác nhận,anh
+C415,img_030.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C415,102: đã xác nhận,anh
+C416,img_030.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C416,102: đã xác nhận,anh
+C417,img_030.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C417,102: đã xác nhận,anh
+C418,img_030.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C418,102: đã xác nhận,anh
+C419,img_030.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C419,102: đã xác nhận,anh
+C420,img_030.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C420,102: đã xác nhận,anh
+C421,img_030.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C421,102: đã xác nhận,anh
+C422,img_030.jpg,Đã rà soát ảnh thực tế và tháo cờ can_review theo R-01,R-01,v1.1,101,CVAT #C422,102: đã xác nhận,anh
+C423,img_030.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C423,102: đã xác nhận,anh
+C424,img_030.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C424,102: đã xác nhận,anh
+C425,img_030.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C425,102: đã xác nhận,anh
+C426,img_030.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C426,102: đã xác nhận,anh
+C427,img_030.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C427,102: đã xác nhận,anh
+C428,img_030.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C428,102: đã xác nhận,anh
+C429,img_030.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C429,102: đã xác nhận,anh
+C430,img_031.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C430,102: đã xác nhận,anh
+C431,img_031.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C431,102: đã xác nhận,anh
+C432,img_031.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C432,102: đã xác nhận,anh
+C433,img_031.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C433,102: đã xác nhận,anh
+C434,img_031.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C434,102: đã xác nhận,anh
+C435,img_031.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C435,102: đã xác nhận,anh
+C436,img_031.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C436,102: đã xác nhận,anh
+C437,img_031.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C437,102: đã xác nhận,anh
+C438,img_031.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C438,102: đã xác nhận,anh
+C439,img_031.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C439,102: đã xác nhận,anh
+C440,img_032.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C440,102: đã xác nhận,anh
+C441,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C441,102: đã xác nhận,anh
+C442,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C442,102: đã xác nhận,anh
+C443,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C443,102: đã xác nhận,anh
+C444,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C444,102: đã xác nhận,anh
+C445,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C445,102: đã xác nhận,anh
+C446,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C446,102: đã xác nhận,anh
+C447,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C447,102: đã xác nhận,anh
+C448,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C448,102: đã xác nhận,anh
+C449,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C449,102: đã xác nhận,anh
+C450,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C450,102: đã xác nhận,anh
+C451,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C451,102: đã xác nhận,anh
+C452,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C452,102: đã xác nhận,anh
+C453,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C453,102: đã xác nhận,anh
+C454,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C454,102: đã xác nhận,anh
+C455,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C455,102: đã xác nhận,anh
+C456,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C456,102: đã xác nhận,anh
+C457,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C457,102: đã xác nhận,anh
+C458,img_032.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C458,102: đã xác nhận,anh
+C459,img_032.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C459,102: đã xác nhận,anh
+C460,img_032.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C460,102: đã xác nhận,anh
+C461,img_032.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C461,102: đã xác nhận,anh
+C462,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C462,102: đã xác nhận,anh
+C463,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C463,102: đã xác nhận,anh
+C464,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C464,102: đã xác nhận,anh
+C465,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C465,102: đã xác nhận,anh
+C466,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C466,102: đã xác nhận,anh
+C467,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C467,102: đã xác nhận,anh
+C468,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C468,102: đã xác nhận,anh
+C469,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C469,102: đã xác nhận,anh
+C470,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C470,102: đã xác nhận,anh
+C471,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C471,102: đã xác nhận,anh
+C472,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C472,102: đã xác nhận,anh
+C473,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C473,102: đã xác nhận,anh
+C474,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C474,102: đã xác nhận,anh
+C475,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C475,102: đã xác nhận,anh
+C476,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C476,102: đã xác nhận,anh
+C477,img_032.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C477,102: đã xác nhận,anh
+C478,img_032.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C478,102: đã xác nhận,anh
+C479,img_034.jpg,Thống nhất biên vùng ignore_region theo R-07,R-07,v1.1,101,CVAT #C479,102: đã xác nhận,anh
+C480,img_034.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C480,102: đã xác nhận,anh
+C481,img_034.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C481,102: đã xác nhận,anh
+C482,img_034.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C482,102: đã xác nhận,anh
+C483,img_034.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C483,102: đã xác nhận,anh
+C484,img_034.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C484,102: đã xác nhận,anh
+C485,img_034.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C485,102: đã xác nhận,anh
+C486,img_034.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C486,102: đã xác nhận,anh
+C487,img_034.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C487,102: đã xác nhận,anh
+C488,img_034.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C488,102: đã xác nhận,anh
+C489,img_034.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C489,102: đã xác nhận,anh
+C490,img_034.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C490,102: đã xác nhận,anh
+C491,img_034.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C491,102: đã xác nhận,anh
+C492,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C492,102: đã xác nhận,anh
+C493,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C493,102: đã xác nhận,anh
+C494,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C494,102: đã xác nhận,anh
+C495,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C495,102: đã xác nhận,anh
+C496,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C496,102: đã xác nhận,anh
+C497,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C497,102: đã xác nhận,anh
+C498,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C498,102: đã xác nhận,anh
+C499,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C499,102: đã xác nhận,anh
+C500,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C500,102: đã xác nhận,anh
+C501,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C501,102: đã xác nhận,anh
+C502,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C502,102: đã xác nhận,anh
+C503,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C503,102: đã xác nhận,anh
+C504,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C504,102: đã xác nhận,anh
+C505,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C505,102: đã xác nhận,anh
+C506,img_034.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C506,102: đã xác nhận,anh
+C507,img_035.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C507,102: đã xác nhận,anh
+C508,img_035.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C508,102: đã xác nhận,anh
+C509,img_035.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C509,102: đã xác nhận,anh
+C510,img_035.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C510,102: đã xác nhận,anh
+C511,img_035.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C511,102: đã xác nhận,anh
+C512,img_035.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C512,102: đã xác nhận,anh
+C513,img_035.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C513,102: đã xác nhận,anh
+C514,img_035.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C514,102: đã xác nhận,anh
+C515,img_035.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C515,102: đã xác nhận,anh
+C516,img_035.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C516,102: đã xác nhận,anh
+C517,img_035.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C517,102: đã xác nhận,anh
+C518,img_035.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C518,102: đã xác nhận,anh
+C519,img_035.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C519,102: đã xác nhận,anh
+C520,img_036.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C520,102: đã xác nhận,anh
+C521,img_036.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C521,102: đã xác nhận,anh
+C522,img_036.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C522,102: đã xác nhận,anh
+C523,img_036.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C523,102: đã xác nhận,anh
+C524,img_036.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C524,102: đã xác nhận,anh
+C525,img_036.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C525,102: đã xác nhận,anh
+C526,img_036.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C526,102: đã xác nhận,anh
+C527,img_036.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C527,102: đã xác nhận,anh
+C528,img_036.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C528,102: đã xác nhận,anh
+C529,img_036.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C529,102: đã xác nhận,anh
+C530,img_036.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C530,102: đã xác nhận,anh
+C531,img_036.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C531,102: đã xác nhận,anh
+C532,img_036.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C532,102: đã xác nhận,anh
+C533,img_036.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C533,102: đã xác nhận,anh
+C534,img_037.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C534,102: đã xác nhận,anh
+C535,img_037.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C535,102: đã xác nhận,anh
+C536,img_039.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C536,102: đã xác nhận,anh
+C537,img_039.jpg,Bổ sung đối tượng người ngồi trên xe theo R-03,R-03,v1.1,101,CVAT #C537,102: đã xác nhận,anh
+C538,img_039.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C538,102: đã xác nhận,anh
+C539,img_039.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C539,102: đã xác nhận,anh
+C540,img_039.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C540,102: đã xác nhận,anh
+C541,img_039.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C541,102: đã xác nhận,anh
+C542,img_039.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C542,102: đã xác nhận,anh
+C543,img_039.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C543,102: đã xác nhận,anh
+C544,img_039.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C544,102: đã xác nhận,anh
+C545,img_039.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C545,102: đã xác nhận,anh
+C546,img_039.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C546,102: đã xác nhận,anh
+C547,img_039.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C547,102: đã xác nhận,anh
+C548,img_039.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C548,102: đã xác nhận,anh
+C549,img_039.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C549,102: đã xác nhận,anh
+C550,img_039.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C550,102: đã xác nhận,anh
+C551,img_039.jpg,Chỉnh box ôm sát phần nhìn thấy của vật theo R-01,R-01,v1.1,101,CVAT #C551,102: đã xác nhận,anh
+C552,img_039.jpg,Thống nhất lớp đúng theo hình thái đối tượng theo R-01,R-01,v1.1,101,CVAT #C552,102: đã xác nhận,anh
+C553,img_039.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C553,102: đã xác nhận,anh
+C554,img_039.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C554,102: đã xác nhận,anh
+C555,img_039.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C555,102: đã xác nhận,anh
+C556,img_039.jpg,Chốt occluded_level đúng mức che khuất thực tế theo R-04,R-04,v1.1,101,CVAT #C556,102: đã xác nhận,anh
+C557,img_040.jpg,Bổ sung vật nhìn rõ bị sót theo R-01,R-01,v1.1,101,CVAT #C557,102: đã xác nhận,anh
