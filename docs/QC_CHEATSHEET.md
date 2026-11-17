@@ -7,13 +7,13 @@
 | IoU | giao / hợp của hai box | box cao ≥ 50 px: 0.85; nhỏ hơn: 0.7 |
 | IAA | IoU trung bình và % cùng lớp, **chỉ trên cặp box ghép 1–1** (không phân biệt lớp, IoU ghép ≥ 0.5) | IoU TB ≥ 0.85, cùng lớp ≥ 95% |
 | Độ phủ | lượt gán hợp lệ / tổng lượt trong `assignment.csv` | đủ 100% mới đo IAA |
-| Vật nhỏ | cao < 20 px | `ignore_region`, đối chiếu quy tắc vật nhỏ |
+| Vật nhỏ | cao < 20 px | `ignore-region`, đối chiếu quy tắc vật nhỏ |
 | Lỗi theo **ảnh** | ảnh có ≥ 1 lỗi / ảnh đã duyệt | **≤ 2%** mới Release |
 | Lỗi theo **đối tượng** | annotation đối tượng bị lỗi / annotation đã duyệt | báo kèm mẫu số |
 
 - Số đo luôn ghi dạng `tử số/mẫu số`. Không có cặp box thì ghi N/A.
 - Với ba người, một ảnh đóng góp ba cặp người.
-- Box chưa ghép được đếm riêng. Chỉ một người đặt vùng `ignore_region` phủ box thì đưa ca vào calibration.
+- Box chưa ghép được đếm riêng. Chỉ một người đặt vùng `ignore-region` phủ box thì đưa ca vào calibration.
 - Release của lab yêu cầu **duyệt toàn bộ lô**. Lô 40 ảnh: một ảnh lỗi (2,5%) đã vượt ngưỡng.
 - Vòng demo chỉ lấy mẫu: luôn là **Hold** khi bàn giao.
 - Giữ IAA **trước** calibration trong hồ sơ.

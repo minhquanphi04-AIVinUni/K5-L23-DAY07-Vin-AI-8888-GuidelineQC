@@ -7,20 +7,20 @@
   "guideline": "submission/guidelines/guideline_v1.1_calibrated.md",
   "labels": {
     "path": "submission/qc/labels_calibrated.json",
-    "sha256": "be44ce4567cf86ff2b578cb0f669a45aaeeab43db2d9f01735e09295bb486836"
+    "sha256": "f67d25de319bf1e36e8528783a6dbad93bf737f532399fe94602a4dca0d7f354"
   },
   "inputs_sha256": {
     "submission/qc/assignment.csv": "a55764c9c38c7ccc08a76c84c4c24182341bec0dca044bc8a73e544ffda1cd52",
     "submission/qc/iaa_summary.json": "5f9221e1ef45b55accf52e1cb3a159d11f27f3fc1c36a10b389a4b804f7ade1a",
     "submission/qc/calibration_decisions.csv": "d4d5f2c54b121a248c69088960db05157caae3c21d045a8ab004e7b93857d1ca",
     "submission/qc/calibration_context.json": "64fdd1a7a7ab1a3fe94f01f7521bac11feb02b98c420e4505d077a515c876526",
-    "submission/guidelines/guideline_v1.1_calibrated.md": "a561cab4f1dad206c33473a2746bf66dda4fecdb1126e042e679a130bcef5538",
+    "submission/guidelines/guideline_v1.1_calibrated.md": "9e52e3d5abcb22790801472c5634304bada50f342ebf3181858ccad5ea16b73a",
     "submission/guideline_change.json": "ef6d234c023246773d81dcba2d21cc5102c651a271e064e881de91d70ba811b4",
     "submission/taxonomy.json": "01371b97f64454944739369975d78bb1c47cda2305465645b3ef38c972996645",
     "data/ATTRIBUTION.csv": "c31a270de08f6e2862b84df18a4a05e66dc58526086ec61b258b44cda52b7b2c",
-    "submission/qc/labels_calibrated_2398937d7b151054.json": "8816c52e4ed56d3425eeb13f15f2b8c4a972a75e4b0496cd1024b48d9bc36e9b"
+    "submission/qc/labels_calibrated_8ccc426efec52f47.json": "df6301a36fd405cf66446b3f4281ef3bf9854f2e27fd8439dd723361dc9d485c"
   },
-  "csv_sha256": "98ec916b86a1653b373a87b7dc850b7eaa69d2b146f189db3557e49530ed8290",
+  "csv_sha256": "d4b2bea217490fd028ea0f0cd6ae7966b92933ce52249907b23814126cc06ce1",
   "images": [
     {
       "file": "img_001.jpg",

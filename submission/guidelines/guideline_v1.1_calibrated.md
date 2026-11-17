@@ -23,14 +23,14 @@ Nhãn dùng để huấn luyện mô hình phát hiện **người và phương 
 | `tuk_tuk` | Xe ba bánh có gắn động cơ chở người hoặc hàng. |
 | `bicycle` | Xe đạp hai bánh không có động cơ. |
 | `person` | Người đi bộ, người đang điều khiển phương tiện hoặc người ngồi trên xe. |
-| `ignore_region` | Vùng đám đông dày đặc, cụm đối tượng quá xa hoặc vật nhỏ không xác định được biên. |
+| `ignore-region` | Vùng đám đông dày đặc, cụm đối tượng quá xa hoặc vật nhỏ không xác định được biên. |
 
 ### Thuộc tính
 
 | Thuộc tính | Giá trị | Ý nghĩa |
 |---|---|---|
-| `occluded_level` | `0` (thấy rõ), `1` (bị che) | Đánh dấu `1` khi vật bị che khuất một phần bởi vật thể khác. |
-| `truncated` | `no` (không), `yes` (có) | Chọn `yes` khi vật bị cắt ngang bởi mép khung hình ảnh. |
+| `occluded_level` | `false` (thấy rõ), `true` (bị che) | Tick `true` khi vật bị che khuất một phần bởi vật thể khác. |
+| `truncated` | `false` (không), `true` (có) | Tick `true` khi vật bị cắt ngang bởi mép khung hình ảnh. |
 | `can_review` | `true` / `false` | Đánh dấu `true` khi cần reviewer kiểm tra lại trong phiên calibration. |
 
 ---
@@ -38,12 +38,12 @@ Nhãn dùng để huấn luyện mô hình phát hiện **người và phương 
 ## 3. Quy tắc trọng tâm (Rules Code)
 
 - **`R-01` (Ôm sát phần nhìn thấy):** Bounding box phải ôm sát tối đa phần cơ thể người hoặc thân xe nhìn thấy được. Không kéo box bao trùm bóng đổ trên mặt đường, không bao quanh vệt nhòe do chuyển động tốc độ cao, và không bao quanh khối hàng hóa cồng kềnh chất rời ngoài giá đỡ chuẩn.
-- **`R-02` (Xe chuyên chở phương tiện):** Đối với xe chuyên dụng chở ô tô/xe máy, bản thân xe vận chuyển được gán là `truck`. Toàn bộ các ô tô con/xe máy chở trên sàn xe nếu nhìn rõ đều phải được gán nhãn riêng biệt từng chiếc (`car`/`motorcycle`) và gắn cờ `occluded_level=1`.
+- **`R-02` (Xe chuyên chở phương tiện):** Đối với xe chuyên dụng chở ô tô/xe máy, bản thân xe vận chuyển được gán là `truck`. Toàn bộ các ô tô con/xe máy chở trên sàn xe nếu nhìn rõ đều phải được gán nhãn riêng biệt từng chiếc (`car`/`motorcycle`) và gắn cờ `occluded_level=true`.
 - **`R-03` (Người điều khiển phương tiện):** Người ngồi trên xe máy, xe đạp hoặc tuk-tuk phải được gán một box riêng là `person`, tách biệt với box của phương tiện (`motorcycle`, `bicycle`, `tuk_tuk`).
-- **`R-04` (Xác định che khuất):** Gán `occluded_level=1` khi có từ 10% đến 80% diện tích nhìn thấy của vật bị che bởi vật cản khác (cột đèn, cây cối, xe khác, người khác). Nếu thấy rõ toàn bộ thân vật thì gán `occluded_level=0`.
-- **`R-05` (Xác định cắt mép):** Gán `truncated=yes` khi bất kỳ cạnh nào của đối tượng bị cắt cụt do chạm mép ảnh (biên trên, dưới, trái, phải).
+- **`R-04` (Xác định che khuất):** Gán `occluded_level=true` khi có từ 10% đến 80% diện tích nhìn thấy của vật bị che bởi vật cản khác (cột đèn, cây cối, xe khác, người khác). Nếu thấy rõ toàn bộ thân vật thì gán `occluded_level=false`.
+- **`R-05` (Xác định cắt mép):** Gán `truncated=true` khi bất kỳ cạnh nào của đối tượng bị cắt cụt do chạm mép ảnh (biên trên, dưới, trái, phải).
 - **`R-06` (Đối tượng ngoài phạm vi):** Tuyệt đối không gán nhãn cho tượng điêu khắc nghệ thuật, hình ảnh quảng cáo 2D, tranh vẽ, ma-nơ-canh trong tủ kính, hình ảnh phản chiếu qua gương/cửa kính, hoặc mô hình xe đồ chơi thu nhỏ.
-- **`R-07` (Ngưỡng kích thước tối thiểu và ignore_region):** Các đối tượng có chiều cao nhỏ hơn 20 pixel hoặc nằm trong cụm đám đông quá xa không tách rời được từng người/xe thì không gán riêng rẽ mà gom chung vào một vùng `ignore_region`.
+- **`R-07` (Ngưỡng kích thước tối thiểu và ignore-region):** Các đối tượng có chiều cao nhỏ hơn 20 pixel hoặc nằm trong cụm đám đông quá xa không tách rời được từng người/xe thì không gán riêng rẽ mà gom chung vào một vùng `ignore-region`.
 
 ---
 
