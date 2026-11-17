@@ -441,6 +441,6 @@ def write_csv(path: Path, header: List[str], rows: List[dict]) -> None:
 
 def rel(p: Path) -> str:
     try:
-        return str(p.relative_to(ROOT))
+        return p.relative_to(ROOT).as_posix()
     except ValueError:
         return str(p)
