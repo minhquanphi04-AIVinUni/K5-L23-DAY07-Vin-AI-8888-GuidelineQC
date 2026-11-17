@@ -13,4 +13,4 @@
 - Số ảnh phải calibration: 34/40.
 - Vòng QC và số ảnh đã duyệt / cả lô: vòng 2 đã mở, 0/40 ảnh được xác nhận; vòng 1 lịch sử đã duyệt 40/40.
 - Tỉ lệ lỗi ghi trong phiếu QC vòng 1: 0.0% theo ảnh (0/40), 0.0% theo annotation của bản cũ (0/569); chưa có tỉ lệ vòng 2.
-- **Quyết định cho bản nhãn hiện tại:** Hold đến khi reviewer duyệt vòng 2; Release vòng 1 chỉ áp dụng cho bản nhãn cũ.
+- **Quyết định cho bản nhãn hiện tại:** Hold đến khi reviewer duyệt vòng 2; kết luận Release vòng 1 đã bỏ sót lỗi R-07 ở `img_025.jpg` và không dùng để bàn giao bản nhãn hiện tại.

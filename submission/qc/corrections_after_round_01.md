@@ -6,6 +6,8 @@
 - Nguồn calibration mới: `labels_calibrated_8ccc426efec52f47.json`.
 - Bản nhãn cuối mới: `labels_calibrated.json`, SHA-256 `f67d25de319bf1e36e8528783a6dbad93bf737f532399fe94602a4dca0d7f354`.
 
+Phiếu `reviews/round-01/qc_review.csv` đã ghi `khong` cho `img_025.jpg` dưới mã reviewer 102. Đối chiếu sau vòng 1 mới phát hiện 5 box dưới ngưỡng R-07; vì vậy kết luận Release vòng 1 đã bỏ sót lỗi này. Giữ nguyên phiếu và snapshot vòng 1 để bảo toàn lịch sử, không dùng kết luận đó cho bản nhãn mới.
+
 | Box `person` trước | Chiều cao trước (px) | Xử lý trong nguồn calibration mới |
 |---|---:|---|
 | #386 | 19.89 | Đổi thành vùng `ignore-region` `[348.00, 371.62, 12.75, 19.89]`. |

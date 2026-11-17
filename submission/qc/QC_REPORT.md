@@ -11,9 +11,9 @@
 
 ## Sửa sau vòng QC 1
 
-Vòng 1 đã duyệt 40/40 ảnh và ghi Release cho bản nhãn SHA-256 `be44ce4567cf86ff2b578cb0f669a45aaeeab43db2d9f01735e09295bb486836`. Kết quả đó chỉ áp dụng cho bản nhãn được lưu tại `reviews/round-01/`.
+Vòng 1 đã ghi Release cho bản nhãn SHA-256 `be44ce4567cf86ff2b578cb0f669a45aaeeab43db2d9f01735e09295bb486836`, nhưng phiếu đã đánh dấu sạch `img_025.jpg` dù còn 5 box dưới ngưỡng R-07. Đây là lỗi bị bỏ sót trong kết luận lịch sử; giữ nguyên hồ sơ vòng 1 để đối chiếu và không áp dụng Release đó cho bản nhãn mới.
 
-Đối chiếu R-07 với nhãn cuối phát hiện 5 box `person` cao dưới 20 px ở `img_025.jpg`. Bản calibration mới chuyển một box riêng và cụm bốn box thành hai vùng `ignore-region`; chi tiết và tọa độ ở `corrections_after_round_01.md`. Nhãn hiện tại có 566 annotation, gồm 2 vùng ignore mới. Vòng 2 đã được tạo cho 40/40 ảnh nhưng phiếu `reviews/round-02/qc_review.csv` chưa được reviewer điền.
+Đối chiếu R-07 với nhãn cuối phát hiện 5 box `person` cao dưới 20 px ở `img_025.jpg`. Bản calibration mới chuyển một box riêng và cụm bốn box thành hai vùng `ignore-region`; chi tiết và tọa độ ở `corrections_after_round_01.md`. Nhãn hiện tại có 566 annotation, gồm 2 vùng ignore mới. Vòng 2 đã được tạo cho 40/40 ảnh nhưng phiếu `reviews/round-02/qc_review.csv` chưa được reviewer điền; báo cáo tự động vòng 2 ghi Hold với 0/40 ảnh được duyệt.
 
 - Vòng QC: 2
 - Người review và ngày: Chưa có xác nhận của reviewer cho vòng 2; ngày duyệt chưa ghi.
