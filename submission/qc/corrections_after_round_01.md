@@ -16,4 +16,4 @@ Phiếu `reviews/round-01/qc_review.csv` đã ghi `khong` cho `img_025.jpg` dư�
 | #390 | 14.32 | Gộp vào vùng #388. |
 | #391 | 15.89 | Gộp vào vùng #388. |
 
-Hai vùng mới lấy biên hợp từ các box cũ. Đây là bản sửa kỹ thuật theo ngưỡng R-07, chưa phải xác nhận QC bằng mắt của reviewer. Vòng 2 giữ bản chụp và phiếu riêng để reviewer kiểm lại toàn lô.
+Hai vùng mới lấy biên hợp từ các box cũ. Reviewer 101 xác nhận đã kiểm đủ 40 ảnh của vòng 2 và tất cả đều sạch; phiếu, bản chụp và báo cáo tự động nằm trong `reviews/round-02/`.
